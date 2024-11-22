@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto Online - Videogames</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            text-align: justify;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Impacto Online - Videogames</h1>
+    <p>Por Ygor Da Cruz, Estudante do Shinquichi Agari</p>
+</header>
+
+<main>
+    <h2>O que são Videogames?</h2>
+    <p>Videogames são dispositivos eletrônicos que permitem jogar uma série de jogos interativos. Eles têm se tornado cada vez mais populares, oferecendo entretenimento, educação e até mesmo habilidades cognitivas através de jogos desafiadores.</p>
+
+    <h2>Vantagens dos Videogames</h2>
+    <ul>
+        <li><strong>Desenvolvimento cognitivo:</strong> Jogos podem melhorar a memória, atenção e a capacidade de resolver problemas.</li>
+        <li><strong>Coordenação motora:</strong> A interação com o controle de videogame ajuda a desenvolver habilidades motoras.</li>
+        <li><strong>Socialização:</strong> Muitos jogos modernos permitem que você jogue com amigos ou outros jogadores ao redor do mundo.</li>
+        <li><strong>Estímulo à criatividade:</strong> Jogos de construção e aventura permitem que os jogadores explorem mundos criativos e criem soluções para diversos problemas.</li>
+    </ul>
+</main>
+
+<footer>
+    <p>&copy; 2024 Ygor Da Cruz. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
